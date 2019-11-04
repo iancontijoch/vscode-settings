@@ -1,0 +1,64 @@
+{
+    "editor.fontSize": 15,
+    "window.zoomLevel": 0,
+    // "env": {
+    //     "PYTHONPATH": "${workspaceRoot}"
+    // },
+    // "name": "Python: Current File (Integrated Terminal)",
+    // "type": "python",
+    // "request": "launch",
+    // "program": "${file}",
+    // "cwd": "${workspaceRoot}",
+    // "env": {"PYTHONPATH": "${workspaceRoot}"},
+    // "console": "integratedTerminal",
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true
+
+    "workbench.colorCustomizations": {
+
+        "editor.background": "#1F0045"
+        "sideBar.background": "#36109C"
+        "sideBarSectionHeader.background": "#257DFF"
+        "scrollbarSlider.background": "#8385F6"
+        "tab.activeBackground": "#257DFF"
+        "activityBar.background": "#36109C"
+        "tab.inactiveBackground": "#1F0045"
+        "editorGroupHeader.tabsBackground": "#1F0045"
+        "list.hoverBackground": "#FF9801"
+        "list.inactiveSelectionBackground": "#00CFA2"
+    }
+
+    "editor.tokenColorCustomizations": {
+        "comments": "#38E4C0" // radiation_green
+        "strings": "#E451C4" // pink
+        "variables": "#FD9E03" // orange
+        "numbers": "#A6F305" // neon_green
+        "functions": "#FFCB00" // yellow
+        "types": "#FF5068" // salmon
+        "keywords": "#FD77BD" // pale pink
+    }
+}
+
+
+red = "#FF0100"
+salmon = "#FF5068"
+dark_orange = "#FF9801"
+orange = "#FD9E03"
+yellow = "#FFCB00"
+plaster = "#FFC6C1"
+jade = "#00CFA2"
+radiation_green = "#38E4C0"
+neon_green = "#A6F305"
+
+
+celeste = "#5FBEFF"
+celeste2 = "#22D1FF"
+aggressive_celeste = "#1AFFF9"
+pale_blue = "#8385F6"
+blue = "#257DFF"
+
+pale_pink = "#FD77BD"
+pink = "#E451C4"
+light_purple = "#36109C"
+light_purple2 = "#CE28FF"
